@@ -7,7 +7,7 @@
 	</header>
 	<section>
 		<h2>About Me</h2>
-		<p>Hi, my name is [Your Name]. I am a [Your Profession] based in [Your Location]. I have [Years of Experience] of experience in [Your Field].</p>
+		<p>Hi, my name is Soujanya R. I am a ETL developer based in Bangalore. I have 2 years of experience in ETL development and Data analytics.</p>
 	</section>
 	<section>
 		<h2>My Work</h2>
